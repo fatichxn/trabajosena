@@ -1,0 +1,77 @@
+
+<html>
+<head><h1 style="color:mediumslateblue;"><center>STRAY KIDS</center></h1>
+<title> ACTIVIDAD 5 FATIMA </title>
+    <link rel="stylesheet" type="text/css" href="fatiactividad5.css" />
+</head>
+    <body>
+<style>
+body {
+  background-image: url("https://i.pinimg.com/736x/29/06/66/29066657b22baeae708dc5dc7cce2488.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+    
+    .myDiv{
+        text-align: center;
+    }
+    
+    
+    img{
+        border: 5px solid purple;
+        margin: 20px 20px
+    }
+    
+    p{
+        color: blueviolet
+    }
+    
+    .straykids{
+        text-align: center
+    }
+    
+    #st1{
+        float: right;
+        padding: 5px
+    }
+    
+    #st2{
+        float: left;
+        padding: 5px
+    }
+    
+    #titulo{
+        color:darkred
+    }
+    
+    #titulo2{
+        color: darkred
+    }
+    
+</style>
+        
+<h1 id="titulo2"><center>biografia de stray kids</center></h1>
+        
+        
+<p>Stray Kids (스트레이 키즈) es un grupo masculino de K-pop creado por JYP Entertainment a través del programa de supervivencia Stray Kids en 2017. El grupo está conformado por nueve miembros: Chang Bin, Woo Jin, Bang Chan, Lee Know, Hyun Jin, Han, Felix, I.N y Seung Min. Previo a su debut el grupo se dio a conocer con el sencillo Hellevator, tema que hace parte de la banda sonora del reality y del EP Pre-debut Mixtape, lanzado a comienzos del 2018. Ese mismo año, debutaron con el EP I Am Not (2018), disco que en poco tiempo ocupo el puesto N° 5 en el World Albums chart.  Poco después regresaron con los EPs I Am Who (2018) y I Am You (2018), álbumes en los que aparecieron grandes éxitos como, WHO?, My Side, Question y I Am You. Actualmente son considerados uno de los nuevos talentos de la escena k-pop junto a NCT y The Boyz.</p>
+<div class="straykids">
+<img id="st"src="https://i.pinimg.com/564x/6b/b9/3d/6bb93d66d795821d3c81781f45f721a2.jpg" width="200" height="200">
+</div>
+        
+        
+<img id="st1" src="https://i.pinimg.com/564x/ee/8b/0d/ee8b0d0cd8ed6f0a2734cf29208b2c24.jpg" width="200px" height="200px">
+<img id="st2" src="https://i.pinimg.com/564x/2c/f2/dd/2cf2dd1356621e42fa72f1e9b5a6a5bc.jpg" width="200px" height="200px">
+
+    
+     <h1 id="titulo"><center>SINOPSIS</center></h1>
+    <p>La vida de una estudiante cambia a medida que aprende técnicas de maquillaje. Jugyeong vive escondida detrás del maquillaje de su doloroso pasado. Suho pierde la alegría por su doloroso pasado.Después de ver vídeos de belleza en Internet, una tímida fanática del cómic domina el arte del maquillaje y ve cómo su posición social se dispara cuando se convierte en la chica más bonita de su escuela, literalmente, de la noche a la mañana. Su estatus de élite será de corta duración? ¿Cuánto tiempo puede ella mantener su "yo real" en secreto? ¿Y qué hay de ese chico lindo que le gusta? ¿Te imaginas si se enterara de la verdad? Lee Su Ho es el único que ha visto su rostro desnudo, quien no solo es uno de los mejores estudiantes, sino que también llama la atención de todas las chicas que lo rodean. A pesar de su popularidad, Lee Su Ho tiene un lado tímido, se pone rojo brillante cuando se avergüenza y dice cosas que lamenta. Por otro lado están Han Seo Jun, un chico alto y atractivo como un modelo, 
+    rudo a primera vista pero también con un par de secretos; y Kang Su Jin, una diosa en toda regla, al menos físicamente hablando.</p>
+    
+    
+    <div class="myDiv">
+        <h2>FELIX</h2>
+         <img src="https://i.pinimg.com/564x/27/32/9f/27329f384add071b6c7e5bbeda3c39e4.jpg" alt="Lee felix, es el rapero principal de la banda, caracterizado por su tonalidad de voz." width="200" height="200">
+    </div>
+    
+</body>
+</html>
